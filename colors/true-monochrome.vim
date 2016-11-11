@@ -27,9 +27,9 @@ hi Search          guifg=#000000    guibg=#FFFFFF    ctermfg=black    ctermbg=wh
 hi Visual          guifg=#000000    guibg=#FFFFFF    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
 hi VisualNOS       guifg=#000000    guibg=#FFFFFF    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
 
-"" grey fg w/white bg
-hi CursorColumn    guifg=#A0A0A0    guibg=#323232    ctermfg=grey     ctermbg=white    gui=NONE         cterm=NONE
-hi CursorLine      guifg=#A0A0A0    guibg=#323232    ctermfg=grey     ctermbg=white    gui=NONE         cterm=NONE
+"" white fg w/darkgrey bg
+hi CursorColumn    guifg=#FFFFFF    guibg=#808080    ctermfg=white    ctermbg=DarkGrey    gui=NONE         cterm=NONE
+hi CursorLine      guifg=#FFFFFF    guibg=#808080    ctermfg=white    ctermbg=DarkGrey    gui=NONE         cterm=NONE
 
 "" grey fg w/black bg
 hi Comment         guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
